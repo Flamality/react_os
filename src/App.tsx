@@ -1,10 +1,10 @@
-import Home from "./core/ui/containers/home/Home"
+import Home from "./pages/Home"
 
 function App() {
 
   return (
     <>
-      <Home />
+    <Home />
     </>
   )
 }
